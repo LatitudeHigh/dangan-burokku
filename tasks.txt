@@ -1,0 +1,4 @@
+-add backgroung where player will cenetrr on "that" line
+-add bullet sound effect
+-add new mode where you now shoot the larger fraction
+-
